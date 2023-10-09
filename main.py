@@ -199,3 +199,5 @@
 # git status qilib tasdiqlash
 # va git hubga kirib yangi repazitoriya qo'shish bo'limiga kirib nom yozish
 # git branch qilish bu narsa bizga loyhamizni qisimlarga bo'lish uchun ishlatiladi yani boshqaruv uchun
+# va git repozitoriyamizni linki 
+# git push -u origin main deb jo'natish
