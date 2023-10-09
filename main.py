@@ -196,3 +196,6 @@
 # git init buyurig'i biz uchun mahalliy git omborini sozlaydi
 # git add fayl nomini yozishimiz mumkun yoki nuqta hammasini qo'shish degani bu gitga qoshish uchun ishlatiladi
 # git commit -m yozamiz bu bizga hamma narsani yeg'ib yani qutiga solib tayyorlab beradi
+# git status qilib tasdiqlash
+# va git hubga kirib yangi repazitoriya qo'shish bo'limiga kirib nom yozish
+# 
