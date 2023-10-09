@@ -198,4 +198,4 @@
 # git commit -m yozamiz bu bizga hamma narsani yeg'ib yani qutiga solib tayyorlab beradi
 # git status qilib tasdiqlash
 # va git hubga kirib yangi repazitoriya qo'shish bo'limiga kirib nom yozish
-# 
+# git branch qilish bu narsa bizga loyhamizni qisimlarga bo'lish uchun ishlatiladi yani boshqaruv uchun
